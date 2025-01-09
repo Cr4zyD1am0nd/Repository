@@ -19,4 +19,4 @@ SkyTracker — это интерактивный проект для любит�
 ## Установка
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/your_username/skytracker.git
+   git clone https://github.com/Cr4zyD1amond/skytracker.git
