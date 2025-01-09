@@ -1,0 +1,15 @@
+/* Полужирный текст */
+.bold-text {
+  font-weight: bold;
+}
+
+/* Полужирный и курсивный текст */
+.bold-italic-text {
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* Курсивный текст */
+.italic-text {
+  font-style: italic;
+}
